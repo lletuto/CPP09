@@ -1,0 +1,12 @@
+- Utiliser un type de container par exercice et c'est tout
+
+Ex00
+-> map ou la cle estr la date que l'on cherche
+
+Ex01
+-> stack
+https://medium.com/@interviewbuddies/reverse-polish-notation-b88524252960
+
+Ex02
+-> list -> to insert ?
+vectors
